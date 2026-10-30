@@ -1,0 +1,8 @@
+UWORK — AJUSTE EXCLUSIVO DE ANIMACIÓN DE ENTRADA
+
+Se modificó únicamente index.html en la sección de la animación. El resto del proyecto se conserva.
+
+Secuencia: 1) ícono U/W, 2) logotipo completo Uwork, 3) inicio habitual.
+Las dos imágenes de la animación están incrustadas en el HTML para evitar rutas rotas, incluso al abrirlo en algunos visores locales.
+
+Para publicar, descomprimí el paquete y subí TODOS los archivos y carpetas manteniendo su estructura en la raíz pública del proyecto. No subas solo index.html. No cambies secretos ni configuración de Supabase.

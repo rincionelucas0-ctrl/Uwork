@@ -25,3 +25,9 @@ Los eventos reales de negocio (por ejemplo, nueva postulación, mensaje o cambio
 ## Compatibilidad
 - Android: Chrome reciente, HTTPS y permiso de notificaciones.
 - iPhone/iPad: iOS/iPadOS 16.4 o posterior; añadir Uwork a la pantalla de inicio y abrirla desde ese icono.
+
+
+REVISIÓN DE UX (30/10/2026): se agregó un bloque visible de instalación y activación de notificaciones en la portada; el aviso de instalación explica los pasos manuales cuando el navegador no ofrece beforeinstallprompt (por ejemplo iPhone/Safari). La pantalla inicial ahora es más compacta y breve. Las notificaciones push requieren iniciar sesión y aceptar el permiso explícitamente.
+
+
+REVISIÓN VISUAL MÓVIL: se refinó la animación de entrada para usar primero el ícono UW y luego la marca Uwork, con brillo verde sutil, texto de apoyo y barra de progreso corta. En pantallas de hasta 680px, las tarjetas de instalación/notificaciones tienen menos padding, iconos más chicos, texto compacto y botones más bajos. El diseño de escritorio queda sin cambios.
