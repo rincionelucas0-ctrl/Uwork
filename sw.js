@@ -1,5 +1,5 @@
 /* Uwork service worker: cache each shell resource independently so one missing optional file cannot block installation. */
-const CACHE_NAME = 'uwork-shell-v3';
+const CACHE_NAME = 'uwork-shell-v4';
 const APP_SHELL = ['/', '/index.html', '/manifest.webmanifest', '/icons/icon-192.png', '/icons/icon-512.png'];
 
 self.addEventListener('install', event => {
